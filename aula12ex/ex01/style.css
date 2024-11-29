@@ -7,6 +7,7 @@
 }
 
 body {
+    /* background-color: #6ba5ec; */
     background-color: #94511bd2;
 }
 
@@ -42,4 +43,12 @@ footer {
 div {
     text-align: center;
     padding: 10px;
+}
+
+div#image img {
+    border-radius: 50%;
+}
+
+div#msg {
+    font-size: 1.2em;
 }
